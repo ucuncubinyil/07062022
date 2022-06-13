@@ -199,7 +199,6 @@ a =  int(input("a sayısı:"))
 b =  int(input("b sayısı:"))
 c =  int(input("c sayısı:"))
 
-
 if (a>b) and (a>c):
     print(f"En büyük değer a dır ve değeri {a}")
 elif (b>a) and (b>c):
